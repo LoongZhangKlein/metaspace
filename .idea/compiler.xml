@@ -8,7 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="shiro" />
-        <module name="metaspace" />
+        <module name="springsecurity" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
